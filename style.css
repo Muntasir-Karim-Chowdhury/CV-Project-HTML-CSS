@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #F0F8FF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    
+}
+.container{
+    background: #FFF5EE;
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 20px;
+}
+.set-img{
+    width: 120px;
+    height: 120px;
+    border: 2px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.my-name{
+    
+    padding: 20px;
+    float: left;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color:#2C3E50;
+}
+.bio{
+    
+    float: right;
+    padding: 20px;
+    font-size: 15px;
+    color: #2C3E50;
+}
+.bio a{
+    text-decoration: none;
+    color: #2C3E50;
+    font-weight: bold;
+    
+}
+.bio a:hover{
+    text-decoration: underline;
+    color: #00008B;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border: 3px solid #696969;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.set-first{
+    width: 30%;
+    float: left;
+}
+.set-second{
+    width: 70%;
+    float: left;
+}
+
+.common-hr{
+    border: 1px solid #663399;
+    border-bottom: none;
+    
+}
+.list{
+    width:97%;
+    float: right;
+}
+.left-div{
+    width: 35%;
+    float:left;
+    margin-right:30px
+}
+.middle-div{
+    width: 30%;
+    float:left;
+}
+.right-div{
+    width: 30%;
+    float:right;
+}
+.set-left{
+    width: 30%;
+    float:left;
+}
+.set-right{
+    width: 70%;
+    float:left;
+}
+
+
+
